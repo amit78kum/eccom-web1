@@ -18,6 +18,7 @@ if (process.env.NODE_ENV !== "PRODUCTION") {
 // connect db
 connectDatabase();
 
+
 cloudinary.config({ 
   cloud_name: 'dzkmi9dag', 
   api_key: '197921828366315', 
