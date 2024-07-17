@@ -1,6 +1,6 @@
 
 
-export const server="https://aebackend-lovat.vercel.app/api/v2
+export const server="https://deploy-eco-app.vercel.app/api/v2"
   
 
 
